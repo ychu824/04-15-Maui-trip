@@ -107,11 +107,11 @@
 | 日期 | 星期 | 住宿 | 行程安排 |
 |------|------|------|---------|
 | 4月15日 | 周三 | Hyatt Regency | 抵达OGG 17:36，取车，入住。傍晚Black Rock浮潜或海边散步 |
-| 4月16日 | 周四 | Hyatt Regency | **早晨 Molokini 浮潜**（Ma'alaea Harbor出发，7am，约4小时）。下午回酒店休息，海滩放松 |
-| 4月17日 | 周五 | Hyatt Regency | **上午 Kapalua Zipline**（Six-Line，3.5小时）。午后 Honolua Bay 浮潜。傍晚 Dragon's Teeth 看日落 |
+| 4月16日 | 周四 | Hyatt Regency | **上午 Kapalua Zipline**（Six-Line，3.5小时）。午后 Honolua Bay 浮潜。傍晚 Dragon's Teeth 看日落 |
+| 4月17日 | 周五 | Hyatt Regency | **早晨 Molokini 浮潜**（Ma'alaea Harbor出发，**6:30am**，约4小时，约5:45am出发）。中午返回，下午海滩休息 |
 | 4月18日 | 周六 | Hyatt Regency | 上午 Nakalele Blowhole 徒步。下午 Kapalua Bay 浮潜。**下午3点出发开车上 Haleakala 看日落**（约1.5小时车程，山顶等日落，无需预约，$30/车） |
 | 4月19日 | 周日 | Courtyard Kahului | 退房，Paia小镇午餐，Ho'okipa Beach（看风帆冲浪）。入住 Courtyard |
-| 4月20日 | 周一 | Courtyard Kahului | **Road to Hana 全天**：Wai'ānapanapa 黑沙滩（预约制）→ Hana小镇 → 七圣池 / Kīpahulu（$30入园）→ 返回 |
+| 4月20日 | 周一 | Courtyard Kahului | **Road to Hana 全天**：早7:00出发 → 沿途停靠（竹林、彩虹瀑布等）→ **Wai'ānapanapa 黑沙滩 10:00–15:00**（已预约两段：10:00–12:30 + 12:30–15:00）→ Hana小镇午餐 → 七圣池 / Kīpahulu（$30/车入园）→ 返回 |
 | 4月21日 | 周二 | — | 上午自由活动。12:50 PM OGG 出发返回西雅图 |
 
 ---
@@ -122,12 +122,12 @@
 - [x] 预订机票（DL0344 去程 / Hawaiian·Alaska AS8030 返程）
 - [x] 预订酒店（Hyatt Regency 4晚 + Courtyard 2晚）
 - [x] 租车（Avis #10296903US1）
+- [x] 预约 Wai'ānapanapa 黑沙滩（4月20日 10:00–12:30 + 12:30–15:00）
 
 ### 🔴 紧急（尽快预约）
-- [ ] **预约 Wai'ānapanapa 黑沙滩**（4月20日，30天限制，已开放！）→ https://gostateparks.hawaii.gov/waianapanapa
 
 ### 待预约
-- [ ] 预约 Molokini 浮潜（建议选早班，约 $100–170/人）
+- [x] 预约 Molokini 浮潜（4月17日 6:30 AM，Ma'alaea Harbor）
 - [ ] 预约 Kapalua Zipline Six-Line Tour（$240/人）→ https://www.kapaluaziplines.com/six-line-tour/
 - [ ] Haleakala 国家公园门票（$30/车，入园当天购买或提前在 recreation.gov 购买均可）
 - [ ] 购买旅行保险
