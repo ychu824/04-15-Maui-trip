@@ -102,6 +102,19 @@
 | ⚠️ 注意 | 目前因道路维修临时关闭至3月30日，预计4月正常开放 |
 | 🔴 紧急 | **4月20日名额已开放（3月21日起）请尽快预约！** |
 
+### 🧗 Aloha Rock Gym
+| 项目 | 详情 |
+|------|------|
+| 地点 | 72 Lauo Loop, Kahului（Courtyard旁边，近机场） |
+| 时间 | 4月19日（周日）傍晚 |
+| 设施 | 40英尺绳索墙 + 抱石区，8,600平方英尺 |
+| 费用 | 日票（价格待确认）+ 岩鞋租赁 $6/人 |
+| 绳索 | 馆内绳子固定在墙上，无需自带 |
+| 认证 | 有经验者到场做 **Belay Certification Test** 即可上绳索墙 |
+| 限时 | 每次最多2小时 |
+| 备注 | 毛伊岛第一家室内攀岩馆，2025年底新开 |
+| 官网 | https://www.aloharockgym.com |
+
 ---
 
 ## 🗓️ 每日行程
@@ -112,7 +125,7 @@
 | 4月16日 | 周四 | Hyatt Regency | **Kapalua Zipline**（10:30 AM到达，11:00–14:30，#343829161）。下午 Honolua Bay 浮潜。傍晚 Dragon's Teeth 看日落 |
 | 4月17日 | 周五 | Hyatt Regency | **早晨 Molokini 浮潜**（Ma'alaea Harbor出发，**6:30am**，约4小时，约5:45am出发）。中午返回，下午海滩休息 |
 | 4月18日 | 周六 | Hyatt Regency | 上午 Nakalele Blowhole 徒步。下午 Kapalua Bay 浮潜。**下午3点出发开车上 Haleakala 看日落**（约1.5小时车程，山顶等日落，无需预约，$30/车） |
-| 4月19日 | 周日 | Courtyard Kahului | 退房，Paia小镇午餐，Ho'okipa Beach（看风帆冲浪）。入住 Courtyard |
+| 4月19日 | 周日 | Courtyard Kahului | 退房，Paia小镇午餐，Ho'okipa Beach（看风帆冲浪）。傍晚 **Aloha Rock Gym**（72 Lauo Loop, Kahului，2小时，到场做Belay Cert考核，岩鞋$6）。入住 Courtyard |
 | 4月20日 | 周一 | Courtyard Kahului | **Road to Hana 全天**：早7:00出发 → 沿途停靠（竹林、彩虹瀑布等）→ **Wai'ānapanapa 黑沙滩 10:00–15:00**（已预约两段：10:00–12:30 + 12:30–15:00）→ Hana小镇午餐 → 七圣池 / Kīpahulu（$30/车入园）→ 返回 |
 | 4月21日 | 周二 | — | 上午自由活动。12:50 PM OGG 出发返回西雅图 |
 
