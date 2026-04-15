@@ -70,15 +70,17 @@
 | 推荐运营商 | Four Winds、Malolo Charters、Pride of Maui |
 | 预约 | 建议提前预订，选择早班避开风浪 |
 
-### 🪂 Kapalua Zipline — Six-Line Tour
+### 🪂 Kapalua Zipline — Six-Line Tour ✅ 已预约
 | 项目 | 详情 |
 |------|------|
-| 地点 | Kapalua（距Hyatt Regency约10分钟） |
-| 时长 | 约3.5小时 |
-| 价格 | **$240 / 人** |
-| 亮点 | 6条全程双人飞索，俯瞰毛伊岛西北海岸，5,350英尺滑行体验 |
+| 预订号 | **#343829161** |
+| 日期时间 | 4月16日（周四）**11:00 AM – 2:30 PM** |
+| 人数 | 2人 |
+| 地点 | 801 Office Road, Lahaina, HI 96761（Kapalua Resort内，Taverna餐厅对面） |
+| 时长 | 3.5小时 |
+| ⚠️ 到达 | **请提前30分钟到达（10:30 AM）** |
+| ⚠️ 待办 | **出发前需在线完成免责声明签署（waiver）** |
 | 官网 | https://www.kapaluaziplines.com/six-line-tour/ |
-| 预约 | 建议提前在网上预约 |
 
 ### 🏔️ Haleakala 国家公园（七圣池 / Kīpahulu区）
 | 项目 | 详情 |
@@ -107,7 +109,7 @@
 | 日期 | 星期 | 住宿 | 行程安排 |
 |------|------|------|---------|
 | 4月15日 | 周三 | Hyatt Regency | 抵达OGG 17:36，取车，入住。傍晚Black Rock浮潜或海边散步 |
-| 4月16日 | 周四 | Hyatt Regency | **上午 Kapalua Zipline**（Six-Line，3.5小时）。午后 Honolua Bay 浮潜。傍晚 Dragon's Teeth 看日落 |
+| 4月16日 | 周四 | Hyatt Regency | **Kapalua Zipline**（10:30 AM到达，11:00–14:30，#343829161）。下午 Honolua Bay 浮潜。傍晚 Dragon's Teeth 看日落 |
 | 4月17日 | 周五 | Hyatt Regency | **早晨 Molokini 浮潜**（Ma'alaea Harbor出发，**6:30am**，约4小时，约5:45am出发）。中午返回，下午海滩休息 |
 | 4月18日 | 周六 | Hyatt Regency | 上午 Nakalele Blowhole 徒步。下午 Kapalua Bay 浮潜。**下午3点出发开车上 Haleakala 看日落**（约1.5小时车程，山顶等日落，无需预约，$30/车） |
 | 4月19日 | 周日 | Courtyard Kahului | 退房，Paia小镇午餐，Ho'okipa Beach（看风帆冲浪）。入住 Courtyard |
@@ -150,6 +152,7 @@
 
 ### 待预约
 - [x] 预约 Molokini 浮潜（4月17日 6:30 AM，Ma'alaea Harbor）
-- [ ] 预约 Kapalua Zipline Six-Line Tour（$240/人）→ https://www.kapaluaziplines.com/six-line-tour/
+- [x] 预约 Kapalua Zipline（4月16日 11:00 AM，#343829161）
+- [ ] **签署 Kapalua Zipline waiver**（出发前在线完成）
 - [ ] Haleakala 国家公园门票（$30/车，入园当天购买或提前在 recreation.gov 购买均可）
 - [ ] 购买旅行保险
